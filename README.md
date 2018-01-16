@@ -7,6 +7,7 @@ Features:
   * Read My online Activity
   * Predict and suggest me tasks when i am bored
   * Set priorities for me
+  * Hands Free Website
 
 Components:
   * ChatBot as Personal Assistant
